@@ -1,0 +1,5 @@
+**/objs
+**/gen
+**/build
+**/.vscode
+.DS_Store
